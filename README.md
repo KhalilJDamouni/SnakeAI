@@ -4,3 +4,6 @@ A snake algorithm that works to maximize the score by eating and avoiding breaki
 Does not require any user input.
 
 Board size can be changed in snek_api.h.
+
+Example run:
+https://www.youtube.com/watch?v=fERMCqPm4c8
